@@ -1,0 +1,15 @@
+.back-button {
+    display: inline-block;
+    font-size:34px;
+    text-decoration: none;
+    transition: transform 0.3s;
+   
+  }
+  .div .back-button{
+     text-align: left;
+  }
+  .back-button:hover {
+    transform: scale(1.2); 
+
+  }
+  

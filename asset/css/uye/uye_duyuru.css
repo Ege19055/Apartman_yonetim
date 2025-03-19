@@ -1,0 +1,72 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(17 24 39);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+    margin-bottom: 20px;
+}
+
+.duyuru {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fafafa;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.duyuru h2 {
+    color: darkred;
+    margin-top: 0;
+}
+
+.duyuru-content {
+    margin-top: 10px;
+}
+
+.duyuru-date {
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 15px;
+}
+
+.no-announcement {
+    text-align: center;
+    color: #999;
+    font-style: italic;
+}
+.div
+{
+    display: flex;
+    margin: auto;
+    gap: 37%;
+}
+h1{
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 15px;
+}
+a:hover{
+    color: darkred;
+    text-shadow: 2px 2px 4px gray;
+   
+}

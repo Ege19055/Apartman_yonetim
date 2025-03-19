@@ -1,0 +1,1 @@
+<?php require_once 'admin_index/index.php'; ?>

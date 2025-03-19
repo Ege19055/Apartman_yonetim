@@ -1,0 +1,11 @@
+i{
+    font-size: 100px;
+}
+#uzat{
+    height: 87.5%;
+    transition-duration: 0.5s;
+}
+#uzat:hover{
+    transition: all 0.3s ease;
+    transform: scale(0.9);
+}
