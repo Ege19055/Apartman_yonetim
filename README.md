@@ -1,0 +1,1 @@
+# Apartman_yonetim
